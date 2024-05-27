@@ -16,3 +16,6 @@ curl http://localhost:11434/api/generate -d '{
 - *Paso 6 Descargar Modelos*:ollama pull tinyollama
 - *Pregunta lo que quieras*: ollama run tinyllama [pregunta]
 - *Activa modo chat*: ollama run 
+# llava 
+- *ollama pull llava*
+- * ollama run llava*
